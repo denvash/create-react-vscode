@@ -1,96 +1,63 @@
-# React Food Truck
+<p align="center">
+  <a href="https://horizontheme.com/">
+    <img alt="horizon banner" src="images/create-react-vscode-banner.png">
+  </a>
+</p>
 
-A collection of curated extensions for discerning React developers.
+---
 
-![Food Truck](images/react-food-truck.png)
+<p align="center">
+  <!-- marketplace version -->
+  <a href="https://marketplace.visualstudio.com/items?itemName=DennisVash.summer-time">
+    <img alt="marketplace version" src="https://img.shields.io/vscode-marketplace/v/DennisVash.summer-time.svg?maxAge=3600&style=for-the-badge&labelColor=1C1E26&color=F699D9">
+  </a>
+  <!-- downloads -->
+  <a href="https://marketplace.visualstudio.com/items?itemName=DennisVash.summer-time">
+    <img alt="downloads" src="https://img.shields.io/visual-studio-marketplace/d/DennisVash.summer-time.svg?maxAge=3600&style=for-the-badge&labelColor=1C1E26&color=A8F79A">
+  </a>
+  <!-- rating -->
+  <a href="https://marketplace.visualstudio.com/items?itemName=DennisVash.summer-time">
+    <img alt="rating" src="https://img.shields.io/visual-studio-marketplace/stars/DennisVash.summer-time.svg?maxAge=86400&style=for-the-badge&labelColor=1C1E26&color=EBEA8B">
+  </a>
+</p>
 
-> Food Truck icon by [@reverentgeek](https://twitter.com/reverentgeek)
+## Installation
 
-## On The Truck
+- At **Extensions** sidebar search for **Create React VSCode**
+- Run `ext install DennisVash.create-react-vscode` at **Command Palette** (`Ctrl+Shift+P` or `⇧⌘P`)
 
-### [Simple React Snippets](https://marketplace.visualstudio.com/items?itemName=burkeholland.simple-react-snippets)
+## The Pack
 
-Only the cleanest, freshest set of React snippets in the market. Everything you
-need with no snippet bloat. Created by one of the nicest guys on the planet.
+### Coding Productivity
 
-![Simple React Snippets](https://github.com/burkeholland/simple-react-snippets/raw/master/images/snippets-in-action.gif)
+- [Auto Close Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-close-tag)
+- [Auto Rename Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag)
+- [IntelliSense for CSS class names in HTML](https://marketplace.visualstudio.com/items?itemName=Zignd.html-css-class-completion)
 
-<hr>
+### Editor
 
-### [ES6 Snippets](https://marketplace.visualstudio.com/items?itemName=xabikos.JavaScriptSnippets)
+- [Code Spell Checker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker)
+- [Fabulous](https://marketplace.visualstudio.com/items?itemName=Raathigeshan.fabulous)
+- [SVG Previewer](https://marketplace.visualstudio.com/items?itemName=vitaliymaz.vscode-svg-previewer)
+- [Import Cost](https://marketplace.visualstudio.com/items?itemName=wix.vscode-import-cost)
 
-All the best ES6 snippets at your finger tips. Why type `import` when you can
-type `imp`? It's three letters shorter. That's called productivity.
+### Syntax
 
-![ES6 Snippets](https://i.imgur.com/u2SmUez.gif)
+- [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
+- [Styled Components Syntax](https://marketplace.visualstudio.com/items?itemName=jpoissonnier.vscode-styled-components)
+- [Color Highlight](https://marketplace.visualstudio.com/items?itemName=naumovs.color-highlight)
+- [Bracket Pair Colorizer](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer)
+- [DotENV](https://marketplace.visualstudio.com/items?itemName=mikestead.dotenv)
+- [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
 
-<hr>
+### Productivity
 
-### [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
+- [Project Manager](https://marketplace.visualstudio.com/items?itemName=alefragnani.project-manager)
+- [Todo Tree](https://marketplace.visualstudio.com/items?itemName=Gruntfuggly.todo-tree)
+- [Jumpy](https://marketplace.visualstudio.com/items?itemName=wmaurer.vscode-jumpy)
+- [GitLens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
 
-Your code looks a little shady. Tighten it up with Prettier. Not sure if you
-need that semicolon? Don't fret - Prettier knows.
+### Markdown
 
-![Prettier](https://i.imgur.com/LVvRCn3.gif)
-
-Add this to your User Preferences file for that premium "format on save"
-experience.
-
-```
-"editor.formatOnSave": true
-```
-
-<hr>
-
-### [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
-
-Your JavaScript is so solid, you don't need a linter. But if you did, it would
-be ESLint and you would use this extension.
-
-![ESLint](https://i.imgur.com/cZiENUM.gif)
-
-You can force Prettier to respect your ESLint rules by adding the following line
-to your User Settings...
-
-```
-"prettier.eslintIntegration": true
-```
-
-<hr>
-
-### [npm Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.npm-intellisense)
-
-Stop guessing at your npm packages. You never get it right anyway. Is leftpad or
-left-pad? Not your problem anymore. This extension provides intellisense for
-your imports.
-
-![npm Intellisense](https://i.imgur.com/DUZ2EOv.gif)
-
-<hr>
-
-### [Exports Autocomplete](https://marketplace.visualstudio.com/items?itemName=capaj.vscode-exports-autocomplete)
-
-Still importing components manually? Why? Just use the component in your JSX and
-this extension will import it for you.
-
-![Exports Autocomplete](https://i.imgur.com/TM6l3o6.gif)
-
-<hr>
-
-### [CSS2React](https://marketplace.visualstudio.com/items?itemName=gottfired.css2react)
-
-You know how you copy/paste in some CSS to a React component, then you gotta fix
-it cause CSS isn't valid JavaScript? Never. again.
-
-![CSS2React](https://i.imgur.com/x0qoL0U.gif)
-
-<hr>
-
-### [React Pure To Class](https://marketplace.visualstudio.com/items?itemName=angryobject.react-pure-to-class-vscode)
-
-Do you need a class or a pure component? Nobody ever knows until they make a
-component and then realize this thing isn't nearly as dumb as they thought it
-was going to be and NOW they need a class. REFACTORING SUCKS. Converting pure
-components to classes is a breeze with this extension.
-
-![React Pure To Class](https://i.imgur.com/9CFgotn.gif)
+- [Markdown All in One](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one)
+- [Markdown-Lint](https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint)
