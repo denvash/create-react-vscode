@@ -2,7 +2,7 @@
   "name": "create-react-vscode",
   "displayName": "Create-React-VSCode IDE",
   "description": "📦 Modern React.js Extension Pack 🎒",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "publisher": "DennisVash",
   "icon": "images/create-react-vscode-logo-round.png",
   "repository": {
