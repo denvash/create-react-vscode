@@ -1,25 +1,32 @@
+  <link href="https://fonts.googleapis.com/css?family=Libre+Barcode+39+Text&display=swap" rel="stylesheet">
+
 <p align="center">
-  <a href="https://horizontheme.com/">
-    <img alt="horizon banner" src="images/create-react-vscode-banner.png">
+  <a href="https://marketplace.visualstudio.com/items?itemName=DennisVash.create-react-vscode">
+    <img alt="Create-React-VSCode" src="https://i.imgur.com/zjllAx4.png">
   </a>
+  <div align="center">
+    <span style="font-family: 'Libre Barcode 39 Text'; font-size: 2em;">Create-React-VSCode</span>
+  </div>
 </p>
 
 ---
 
 <p align="center">
   <!-- marketplace version -->
-  <a href="https://marketplace.visualstudio.com/items?itemName=DennisVash.summer-time">
-    <img alt="marketplace version" src="https://img.shields.io/vscode-marketplace/v/DennisVash.summer-time.svg?maxAge=3600&style=for-the-badge&labelColor=1C1E26&color=F699D9">
+  <a href="https://marketplace.visualstudio.com/items?itemName=DennisVash.DennisVash.create-react-vscode">
+    <img alt="marketplace version" src="https://img.shields.io/vscode-marketplace/v/DennisVash.create-react-vscode.svg?maxAge=3600&style=for-the-badge&labelColor=1C1E26&color=F699D9">
   </a>
   <!-- downloads -->
-  <a href="https://marketplace.visualstudio.com/items?itemName=DennisVash.summer-time">
-    <img alt="downloads" src="https://img.shields.io/visual-studio-marketplace/d/DennisVash.summer-time.svg?maxAge=3600&style=for-the-badge&labelColor=1C1E26&color=A8F79A">
+  <a href="https://marketplace.visualstudio.com/items?itemName=DennisVash.create-react-vscode">
+    <img alt="downloads" src="https://img.shields.io/visual-studio-marketplace/d/DennisVash.create-react-vscode.svg?maxAge=3600&style=for-the-badge&labelColor=1C1E26&color=A8F79A">
   </a>
   <!-- rating -->
-  <a href="https://marketplace.visualstudio.com/items?itemName=DennisVash.summer-time">
-    <img alt="rating" src="https://img.shields.io/visual-studio-marketplace/stars/DennisVash.summer-time.svg?maxAge=86400&style=for-the-badge&labelColor=1C1E26&color=EBEA8B">
+  <a href="https://marketplace.visualstudio.com/items?itemName=DennisVash.create-react-vscode">
+    <img alt="rating" src="https://img.shields.io/visual-studio-marketplace/stars/DennisVash.create-react-vscode.svg?maxAge=86400&style=for-the-badge&labelColor=1C1E26&color=AEE9F5">
   </a>
 </p>
+
+> **Keep up** with the best extensions for React developing.
 
 ## Installation
 
@@ -28,7 +35,7 @@
 
 ## The Pack
 
-### Coding Productivity
+### Coding
 
 - [Auto Close Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-close-tag)
 - [Auto Rename Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag)

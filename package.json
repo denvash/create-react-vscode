@@ -1,13 +1,17 @@
 {
   "name": "create-react-vscode",
-  "displayName": "Create React VSCode IDE",
+  "displayName": "Create-React-VSCode IDE",
   "description": "📦 Modern React.js Extension Pack 🎒",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "publisher": "DennisVash",
-  "icon": "images/create-react-vscode-logo.png",
+  "icon": "images/create-react-vscode-logo-round.png",
   "repository": {
     "type": "git",
     "url": "https://github.com/denvash/create-react-vscode.git"
+  },
+  "galleryBanner": {
+    "color": "#2B303B",
+    "theme": "dark"
   },
   "keywords": [
     "React",
@@ -16,7 +20,8 @@
     "Front End Extensions",
     "React Extensions",
     "react",
-    "React Pack"
+    "React Pack",
+    "VScode"
   ],
   "engines": {
     "vscode": "^1.13.0"
@@ -26,7 +31,7 @@
   ],
   "extensionDependencies": [
     "alefragnani.project-manager",
-    "CoenraadS.bracket-pair-colorizer",
+    "coenraads.bracket-pair-colorizer-2",
     "DavidAnson.vscode-markdownlint",
     "dbaeumer.vscode-eslint",
     "eamodio.gitlens",
