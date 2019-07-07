@@ -8,7 +8,7 @@
 
 <p align="center">
   <!-- marketplace version -->
-  <a href="https://marketplace.visualstudio.com/items?itemName=DennisVash.DennisVash.create-react-vscode">
+  <a href="https://marketplace.visualstudio.com/items?itemName=DennisVash.create-react-vscode">
     <img alt="marketplace version" src="https://img.shields.io/vscode-marketplace/v/DennisVash.create-react-vscode.svg?maxAge=3600&style=for-the-badge&labelColor=1C1E26&color=F699D9">
   </a>
   <!-- downloads -->
