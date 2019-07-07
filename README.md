@@ -1,12 +1,7 @@
-  <link href="https://fonts.googleapis.com/css?family=Libre+Barcode+39+Text&display=swap" rel="stylesheet">
-
 <p align="center">
   <a href="https://marketplace.visualstudio.com/items?itemName=DennisVash.create-react-vscode">
-    <img alt="Create-React-VSCode" src="https://i.imgur.com/zjllAx4.png">
+    <img alt="Create-React-VSCode" src="https://i.imgur.com/l23Mjzk.png">
   </a>
-  <div align="center">
-    <span style="font-family: 'Libre Barcode 39 Text'; font-size: 2em;">Create-React-VSCode</span>
-  </div>
 </p>
 
 ---
