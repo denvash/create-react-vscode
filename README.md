@@ -30,6 +30,8 @@
 
 ## The Pack
 
+The pack installs these extensions, you can remove any of them afterwards.
+
 ### Coding
 
 - [Auto Close Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-close-tag)
@@ -51,11 +53,12 @@
 - [Bracket Pair Colorizer](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer)
 - [DotENV](https://marketplace.visualstudio.com/items?itemName=mikestead.dotenv)
 - [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
+- Bonus: [Summer Time Theme](https://marketplace.visualstudio.com/items?itemName=DennisVash.summer-time)
 
 ### Productivity
 
 - [Project Manager](https://marketplace.visualstudio.com/items?itemName=alefragnani.project-manager)
-- [Todo Tree](https://marketplace.visualstudio.com/items?itemName=Gruntfuggly.todo-tree)
+- [Todo+](https://marketplace.visualstudio.com/items?itemName=fabiospampinato.vscode-todo-plus)
 - [Jumpy](https://marketplace.visualstudio.com/items?itemName=wmaurer.vscode-jumpy)
 - [GitLens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
 
