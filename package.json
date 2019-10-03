@@ -2,7 +2,7 @@
   "name": "create-react-vscode",
   "displayName": "Create-React-VSCode IDE",
   "description": "📦 Modern React.js Extension Pack 🎒",
-  "version": "1.0.3",
+  "version": "1.1.0",
   "publisher": "DennisVash",
   "icon": "images/create-react-vscode-logo-round.png",
   "repository": {
@@ -30,24 +30,28 @@
     "Extension Packs"
   ],
   "extensionDependencies": [
-    "alefragnani.project-manager",
-    "coenraads.bracket-pair-colorizer-2",
     "DavidAnson.vscode-markdownlint",
+    "EditorConfig.EditorConfig",
+    "alefragnani.project-manager",
+    "bierner.github-markdown-preview",
+    "coenraads.bracket-pair-colorizer-2",
     "dbaeumer.vscode-eslint",
     "dennisvash.summer-time",
     "eamodio.gitlens",
     "esbenp.prettier-vscode",
+    "fabiospampinato.vscode-todo-plus",
     "formulahendry.auto-close-tag",
     "formulahendry.auto-rename-tag",
-    "fabiospampinato.vscode-todo-plus",
     "jpoissonnier.vscode-styled-components",
     "mikestead.dotenv",
     "naumovs.color-highlight",
-    "raathigeshan.fabulous",
+    "pflannery.vscode-versionlens",
     "streetsidesoftware.code-spell-checker",
     "vitaliymaz.vscode-svg-previewer",
     "wix.vscode-import-cost",
     "wmaurer.vscode-jumpy",
-    "yzhang.markdown-all-in-one"
+    "yzhang.markdown-all-in-one",
+    "zengxingxin.sort-js-object-keys",
+    "Tyriar.sort-lines"
   ]
 }
